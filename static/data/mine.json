@@ -1,0 +1,40 @@
+{
+    "control":{
+        "expires":6
+    },
+    "status":0,
+    "data":{
+        "hasNext":false,
+        "meun":[{
+            "txt":"我的文献",
+            "pic":"static/img/19.png"
+        },{
+            "txt":"证件信息",
+            "pic":"static/img/20.png"
+        },{
+            "txt":"当前借阅",
+            "pic":"static/img/21.png"
+        },{
+            "txt":"借阅历史",
+            "pic":"static/img/22.png"
+        },{
+            "txt":"修改密码",
+            "pic":"static/img/23.png"
+        },{
+            "txt":"修改联系方式",
+            "pic":"static/img/24.png"
+        },{
+            "txt":"预约信息",
+            "pic":"static/img/25.png"
+        },{
+            "txt":"违章信息",
+            "pic":"static/img/26.png"
+        }]
+
+
+
+    }
+
+
+
+}

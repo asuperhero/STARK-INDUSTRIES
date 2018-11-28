@@ -1,0 +1,31 @@
+{
+    "control":{
+        "expires":6
+    },
+    "status":0,
+    "data":{
+        "hasNext":false,
+        "meun":[{
+            "txt":"部门简介",
+            "pic":"static/img/1.png"
+        },{
+            "txt":"分类",
+            "pic":"static/img/2.png"
+        },{
+            "txt":"附近书店",
+            "pic":"static/img/3.png"
+        },{
+            "txt":"流量控制",
+            "pic":"static/img/4.png"
+        },{
+            "txt":"图书预约",
+            "pic":"static/img/5.png"
+        },{
+            "txt":"设置",
+            "pic":"static/img/6.png"
+        }]
+    }
+
+
+
+}

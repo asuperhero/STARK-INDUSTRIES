@@ -1,0 +1,28 @@
+{
+    "control":{
+        "expires":6
+    },
+    "status":0,
+    "data":{
+        "hasNext":false,
+        "meun":[{
+            "txt":"我的图书馆",
+            "pic":"static/img/7.png"
+        },{
+            "txt":"新书借阅",
+            "pic":"static/img/8.png"
+        },{
+            "txt":"信息推送",
+            "pic":"static/img/9.png"
+        },{
+            "txt":"信息咨询",
+            "pic":"static/img/10.png"
+        }]
+
+
+
+
+
+
+    }
+}
