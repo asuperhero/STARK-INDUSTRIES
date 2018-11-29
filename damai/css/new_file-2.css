@@ -1,0 +1,72 @@
+*{margin: 0; padding: 0; text-decoration: none;border: none;}
+@media only screen and (max-width:1350px ) {body{width: 1350px;}}
+.clear_fix:after{content: "";display: block;clear: both;}
+#head a{color: #111111;}
+#head{width: 100%;height: 72px;box-shadow: 0 2px 16px 0 rgba(220,220,220,5);}
+#head #head-1{width: 80%;margin: auto;}
+#head #head-1 #logo{width:7% ;margin-top:17px ;float: left;}
+#head #head-1 #pic1{width: 1%;margin-left: 6%;}
+#head #head-1 #pic2{width: 1%;}
+#head #head-1 #inp1{width: 20%;background: #F8F8F8;color: #757575;height: 50px;padding-left: 5%;
+margin-top: 10px;border-top-left-radius: 50px;border-bottom-left-radius:50px ;margin-left: 12%;}
+#head #head-1 #inp2{width: 7%;background: #FF1268; color: white;height: 50px;
+border-top-right-radius: 50px;border-bottom-right-radius:50px ;position: relative; left: -1%;}
+#head #head-1 #pic3{width: 1.5%;position: relative;left: 16%; top: 5px;}
+#head #head-1 #pic4{width: 2.5%;position: relative;top: 9px;}
+#head #head-1 #pic6{width: 2.5%;position: relative;top: 9px;}
+#head #head-1 #pic5{border-radius: 50%; width: 2%;margin-top: 10px;position: relative;top: 9px;}
+#head #head-1 #a2{margin-left: 2%;margin-right: 1%;}
+#head #head-1 #nav{width: 40%;height: 100px;border: 1px solid red;position: relative;top: 90px;float: left;}
+#ml{width: 80%;margin: auto;margin-top: 20px;margin-bottom: 20px;}
+#ml a{color: #ED0AA1;}
+#bd{width: 80%;margin: auto;}
+#bdl{width: 75%;float: left;}
+#bdr{width: 23%;float: right;}
+#bdl1{width: 100%;border: 1px solid #E9E9E9;}
+.ul01{width: 90%;margin: auto;border-bottom: 1px solid #E9E9E9;height: 60px;}
+#bd #bd1 .ul1{display: block; margin-left: 10px;}
+#bd #bdl .ul1 li{float: left;list-style: none;display: block;margin:5px 7px ;padding: 5px 2px;line-height: 30px;
+	text-align: center;font-size: 14px;color: #968788;}
+#bd #bdl .ul1 a{text-align: center;display: block;line-height: 30px;padding: 2px 7px;color: black;}
+#bd #bdl .ul1 li a:hover{background: #ED0A75; color: white;}
+.inp1{width: 70px;border: 1px solid #E0E0E0;}
+#bd #bdl #bdl2{border: 1px solid #EAEAEA;margin-top: 20px;width: 100%;height: 2100px;}
+#bd #bdl #bdl2 a{color: black;}
+#bd #bdl #bdl2 #bdl21{width: 100%;border: 1px solid #E9E9E9;height: 37px;;background: #F5F5F5;}
+#bd #bdl #bdl2 #bdl21 #ul1 li{list-style: none;float: left;display: block;padding: 8px 15px;border-right: 1px solid #EAEAEA;}
+#bd #bdl #bdl2 #bdl21 #ul1 li:hover{background: white;}
+.bdl22{width: 92%;margin: auto;margin-top: 20px;border-bottom: 1px dashed #EFEFEF;height: 230px;}
+.bdl22 .pic1{width: 18%;float: left;}
+.bdl22d1{padding-left: 80px;margin-left: 80px;margin-top: 10px;}
+.bdl22d1 a{color: #ED0A75;}
+.bdl22d2{color: #999999;margin-left: 170px;margin-top: 10px;}
+.bdl22d3{color: #999999;margin-left: 190px;margin-top: 10px;}
+.bdl22d4{color: #999999;margin-left: 190px;margin-top: 10px;}
+.bdl22d5{margin-left: 170px;margin-top: 10px;color: #999999;}
+.sp3{color: #ED0A75;}
+#weibu0{width: 100%; background: #F8F8F8;height: 300px;margin-top: 30px;}
+#weibu0 #weibu{width: 80%;margin: auto;padding-top: 40px;}
+#weibu0 #weibu #ul1{margin-left: 5%;}
+#weibu0 #weibu #ul1 li{float: left;list-style: none;text-align: center;width: 10%;border-right: 1px solid #000050;}
+#weibu0 #weibu #ul1 li a{color: black;}
+#weibu0 #weibu>div{float: left;}
+#weibu0 #weibu #box0 img{width: 50%;margin-top: 70px;}
+#pic8{width: 100%;}
+#box1-2{text-align: center;}
+#weibu0 #weibu #box1{width: 7%;margin-top: 50px;}
+#box3{margin-left: 100px;}
+#box3 li{list-style: none;float: left;font-size: 14px;padding-left:5px ;padding-right: 5px;border-right: 1px solid black;margin-bottom: 5px;}
+#box3 a{color: black;}
+#box3-1{width: 90px;height: 25px; border-radius: 20px;background: #FF1268;color: white;text-align: center;font-size: 14px;line-height: 25px;
+	margin-top: 50px;margin-bottom: 10px;}
+#box3-1 img{float: left;}
+a:hover{color: pink;}
+#bdr{width: 20%;border: 1px solid #E9E9E9;float: left;height: 2100px;margin-left: 20px;overflow: hidden;}
+#bdr .bdr1{margin: 10px;}
+#bdr img{width: 50%;}
+#bdr #bdrh{width: 100%;height: 20px;background: #F5F5F5;padding: 10px 10px;overflow: hidden;}
+.bdr0{width: 48%;float: right;}
+.bdr11{width: 100%;height: 50px;font-size: 11px;}
+.bdr12{width: 100%;font-size: 12px;height: 70px;color: #999999;}
+.bdr13{width: 100%;font-size: 14px;color: #ED0A75;}
+.sp4{color: #999999;font-size: 10px;}
