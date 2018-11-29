@@ -1,5 +1,6 @@
 *{margin: 0; padding: 0; text-decoration: none;border: none;}
 @media only screen and (max-width:1250px ) {body{width: 1250px;}}
+img{cursor:pointer;}
 .clear_fix:after{content: "";display: block;clear: both;}
 #fir{width: 100%; background: #67090F;}
 #fir1{width: 80%;margin: auto;}
@@ -57,9 +58,12 @@ border-top-right-radius: 50px;border-bottom-right-radius:50px ;position: relativ
 	margin-top: 50px;margin-bottom: 10px;}
 #box3-1 img{float: left;}
 a:hover{color: pink;}
-
-
-
+#float{position: fixed;right:2%;bottom: 100px;border: 1px solid #EBEBEB;margin: auto;}
+#float img{width: 32px;height: 29px;}
+#float a{font-size: 12px;color: black;}
+#float #float1{width: 80px;height: 60px;margin: auto;text-align: center; border-bottom: 1px solid #EBEBEB;padding-top:10px;background: white;}
+#float #float2{width: 80px;height: 60px;margin: auto;text-align: center; border-bottom: 1px solid #EBEBEB;padding-top:10px;background: white;}
+#float #float3{width: 80px;height: 60px;margin: auto;text-align: center; border-bottom: 1px solid #EBEBEB;padding-top:10px;background: white;}
 
 
 

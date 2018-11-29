@@ -147,10 +147,10 @@
 			<div class="cs1">
 				<img src="img/159433_n.jpg"class="cs1_6"/>
 				<div class="cs1_1">
-					<div class="cs1_2"><a href="#">2018周杰伦【地表最强】世界巡回演唱...</a></div>
-					<div class="cs1_3"><a href="#">太原|山西体育中心红灯笼体育馆</a></div>
-					<div class="cs1_4"><a href="#">2018.09.02 20:00</a></div>
-					<div class="cs1_5"><a href="#">￥380起</a></div>
+					<div class="cs1_2"><a href="index_2.html">2018周杰伦【地表最强】世界巡回演唱...</a></div>
+					<div class="cs1_3"><a href="index_2.html">太原|山西体育中心红灯笼体育馆</a></div>
+					<div class="cs1_4"><a href="index_2.html">2018.09.02 20:00</a></div>
+					<div class="cs1_5"><a href="index_2.html">￥380起</a></div>
 				</div>
 			</div>
 			<div class="cs1">
@@ -398,7 +398,34 @@
 			</div>
 		
 		
-		
+<div id="float">
+	<div id="float1">
+		<a href="#"><img src="img/float1.png"><br>在线客服</a>
+	</div>
+	<div id="float2">
+		<a href="index_4.html"><img src="img/float2.png"><br>APP下载</a>
+	</div>
+	<div id="float3">
+		<a href="javascript:scroll(0,0)"><img src="img/float3.png"><br>回到顶部</a>
+	</div>
+</div>
+
+
+	<script>
+		var float3 = document.getElementById("float3")
+	function goScrollTop() {
+    window.scrollBy(0, -100);
+    scrolldelay = setTimeout('goScrollTop()', 100);
+    var sTop = document.documentElement.scrollTop + document.body.scrollTop;
+    if (sTop == 0) clearTimeout(scrolldelay);
+}
+	
+
+	var top = $(document).scrollTop();
+	if(top>1.5*winHeight){
+        float3.style.display="block"
+    }
+	</script>
 	</body>
 </html>
 
