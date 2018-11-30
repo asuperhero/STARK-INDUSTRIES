@@ -1,0 +1,38 @@
+*{padding: 0;margin: 0;}
+@media only screen and (max-width:1350px ) {body{width: 1350px;}}
+img{cursor:pointer;}
+#head{width: 80%;margin: auto;}
+#head #pic1{width: 108px;height: 48px;margin-top: 30px;margin-bottom: 30px;}
+#head #eng{width: 123px;height: 40px;text-align: center;line-height: 40px;float: right;
+	border: 1px solid gray;margin-top: 30px;}
+#body{width: 100%;height: 600px;background:#e5af54;}
+#body #body1{width: 80%;height: 600px;margin: auto;}
+#body #body1 #pic2{margin-top: 100px;}
+#body #inp{width: 350px;height: 300px;background: white;float: right;margin-top: 100px;}
+#body #inp #inp1{width: 116.66px;height: 38px;float: left;text-align: center;
+	line-height: 38px;color:#ff3595;}
+#body #inp #inp2{width: 116.66px;height: 38px;float: left;text-align: center;
+	line-height: 38px;background: #e7e7e7;}
+#body #inp #inp3{width: 116.66px;height: 38px;float: left;text-align: center;
+	line-height: 38px;background: #e7e7e7;}
+#body #inp #yhm{width: 275px;height: 40px;margin: auto;margin-left: 35px;padding-left: 40px;
+	box-sizing: border-box;margin-top: 10px;}
+#body #inp #pic3{position: relative;width: 40px;height: 40px;left: 35px;top: -40px;}
+#body #inp #mm{width: 275px;height: 40px;margin: auto;margin-left: 35px;padding-left: 40px;
+	box-sizing: border-box;position: relative;top: -20px;}
+#body #inp #pic4{position: relative;width: 40px;height: 40px;left: 35px;top: -60px;}	
+#body #inp #dl{width: 275px;height: 40px;margin: auto;margin-left: 35px;background: url(../img/hx.png)center;
+	border: 1px solid#ff1268;border-radius: 4px;color: white;position: relative;top: -40px;}
+#body #inp #yc2 #sjh{width: 275px;height: 40px;margin: auto;margin-left: 35px;padding-left: 40px;
+	box-sizing: border-box;margin-top: 10px;}
+#body #inp #yc2 #pic5{position: relative;width: 40px;height: 40px;left: 35px;top: -40px;}	
+#body #inp #yc2 #yzm{width: 275px;height: 40px;margin: auto;margin-left: 35px;padding-left: 40px;
+	box-sizing: border-box;position: relative;top: -20px;}
+#body #inp #yc2 #pic6{position: relative;width: 40px;height: 40px;left: 35px;top: -60px;}	
+#body #inp #yc2 #dl2{width: 275px;height: 40px;margin: auto;margin-left: 35px;background: url(../img/hx.png)center;
+	border: 1px solid#ff1268;border-radius: 4px;color: white;position: relative;top: -40px;}
+#body #inp #yc3 h4{margin-top: 20px;display: block;text-align: center;padding-bottom: 20px;}
+#body #inp #yc3 #pic7{width: 130px;height: 130px;margin-left: 110px;}
+#body #inp #yc3 #pic8{width: 34px;height: 34px;}
+.on{background: white;border-top: 2px solid #ff3595;color:#ff3595;}
+.off{background: #e7e7e7;}
