@@ -1,5 +1,5 @@
 *{margin: 0; padding: 0; text-decoration: none;border: none;}
-@media only screen and (max-width:1250px ) {body{width: 1250px;}}
+@media only screen and (max-width:1400px ) {body{width: 1400px;}}
 img{cursor:pointer;}
 .clear_fix:after{content: "";display: block;clear: both;}
 html{background: #F9F9F7;}
